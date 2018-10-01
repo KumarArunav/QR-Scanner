@@ -3,6 +3,8 @@
 A new Flutter application.
 ![](images/22.png)
 
+This application can be further advanced to processing QR codes from an image and returning INVALID Option when there is no QR code.
+
 ### Screenshots of App
 <img src="images/33.png" width="300" height="500">
 <img src="images/44.png" width="300" height="500">
